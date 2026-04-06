@@ -1,0 +1,27 @@
+.stats-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.card {
+  background: #242424;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #646cff;
+  min-width: 150px;
+}
+.country-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 10px;
+  border-bottom: 1px solid #444;
+  text-align: left;
+}
+input {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
